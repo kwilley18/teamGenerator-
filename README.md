@@ -10,7 +10,8 @@ email, and github links will be displayed.
 `node app.js` 
 
 ## Usage 
-Use the command-line to input data
+User must input the team members information from the inquirer tool. Once all of the team members info is gathered, cards are created in order 
+to display their information. 
 
 <a href="https://vimeo.com/599928042"><img src="Screen Shot 2021-09-07 at 7.24.48 PM.png"></a>
 
