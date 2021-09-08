@@ -15,4 +15,10 @@ Use the command-line to input data
 ## Contribution 
 Contributors should read the usage section 
 
+## Additional Info 
+
+An example of the output is found in the example.html file. 
+
+
+Email: kristianwilley@gmail.com
 
