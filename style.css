@@ -1,0 +1,13 @@
+body{
+    background-image: url(background.jpg); 
+    background-size: cover; 
+    font-family: 'Lobster', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-family: 'Lobster', cursive;
+}
+h2{
+    font-family: 'Roboto', cursive;
+
+}
