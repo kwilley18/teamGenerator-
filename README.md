@@ -5,7 +5,8 @@ This applicated was created to create a HTML file of a team. This team consists 
 email, and github links will be displayed. 
 
 ## Installation 
-`npm install `
+`npm install`
+
 `node app.js` 
 
 ## Usage 
