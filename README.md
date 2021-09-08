@@ -9,7 +9,8 @@ type "node app.js" in the command-line prompt
 ## Usage 
 Use the command-line to input data
 
-https://vimeo.com/599928042
+<a href="https://vimeo.com/599928042"><img src="Screen Shot 2021-09-07 at 6.59.51 PM.png"></a>
+
 
 ## Contribution 
 Contributors should read the usage section 
