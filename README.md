@@ -9,8 +9,7 @@ type "node app.js" in the command-line prompt
 ## Usage 
 Use the command-line to input data
 
-<a href="https://vimeo.com/599928042"><img src="Screen Shot 2021-09-07 at 7.24.48 PM.png
-"></a>
+<a href="https://vimeo.com/599928042"><img src="Screen Shot 2021-09-07 at 7.24.48 PM.png"></a>
 
 
 ## Contribution 
