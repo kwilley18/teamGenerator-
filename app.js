@@ -110,14 +110,14 @@ function addTeamMember(){
 function addToHTML(teamMember){
     if(teamMember.getRole() === "Engineer"){
  
-       fs.writeFileSync('./main.html', render(teamMembers)); 
+       fs.writeFileSync('./index.html', render(teamMembers)); 
     }
     else if(teamMember.getRole() === "Intern"){
-        fs.writeFileSync('./main.html', render(teamMembers)); 
+        fs.writeFileSync('./index.html', render(teamMembers)); 
 
     }
     else if(teamMember.getRole() === "Manager"){
-        fs.writeFileSync('./main.html', render(teamMembers))
+        fs.writeFileSync('./index.html', render(teamMembers))
     }
 
 }
