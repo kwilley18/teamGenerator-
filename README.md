@@ -17,7 +17,7 @@ email, and github links will be displayed.
 ## Usage 
 Use the command-line to input data
 
-<a href="https://vimeo.com/599928042"><img src="Screen Shot 2021-09-07 at 7.24.48 PM.png"></a>
+<a href="https://vimeo.com/607890354"><img src="Screen Shot 2021-09-07 at 7.24.48 PM.png"></a>
 
 An example of the output is found in the example.html file. 
 The link above shows a video of the applcation being deployed. 
