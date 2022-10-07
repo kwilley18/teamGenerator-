@@ -1,7 +1,7 @@
 # teamGenerator-
 
 ## Description 
-This applicated was created to create a HTML file of a team. This team consists of engineers, managers, and interns. Each card displays the team members name, email, employee id, and their role. Information such as their github, office number, and school is based off of their role. For example, if a team member is a "Engineer", their name, 
+This application was created to create a HTML file of a team. This team consists of engineers, managers, and interns. Each card displays the team members name, email, employee id, and their role. Information such as their github, office number, and school is based off of their role. For example, if a team member is a "Engineer", their name, 
 email, and github links will be displayed. 
 
 ## Table of Contents
