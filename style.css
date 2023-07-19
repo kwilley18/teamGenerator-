@@ -11,3 +11,7 @@ h2{
     font-family: 'Roboto', cursive;
 
 }
+.responsive {
+    max-width: 90%;
+    height: auto;
+}
